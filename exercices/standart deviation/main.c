@@ -47,7 +47,7 @@ int main(void)
             printf("List total: [%Lf]\n", total(list));
             break;
         case 0:
-            printf("Bye!");
+            printf("Bye!\n");
             break;
         default:
             printf("Task not found!\n");
